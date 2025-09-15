@@ -1,0 +1,3 @@
+name,availability,max_workload,expertise
+Dr_Smith,"{'Mon': ['9-12'], 'Tue': ['13-15']}",30,"['CSE101','MAT202']"
+Prof_Jones,"{'Wed': ['10-14']}",25,"['EDU101']"

@@ -1,0 +1,3 @@
+name,capacity,is_lab
+Room101,50,false
+LabA,20,true

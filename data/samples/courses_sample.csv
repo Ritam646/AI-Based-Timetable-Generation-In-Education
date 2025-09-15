@@ -1,0 +1,4 @@
+code,credit_hours,is_elective,is_practical
+CSE101,4,true,false
+MAT202,3,true,false
+EDU101,4,false,true
