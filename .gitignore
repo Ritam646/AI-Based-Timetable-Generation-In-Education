@@ -1,1 +1,5 @@
 venv/
+# Ignore environment files containing secrets
+backend/.env
+*.env
+.ipynb_checkpoints/

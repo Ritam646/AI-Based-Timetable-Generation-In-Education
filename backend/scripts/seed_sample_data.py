@@ -3,12 +3,12 @@ import os
 from pathlib import Path
 import logging
 
-# Add backend/ to sys.path
-sys.path.append(str(Path(__file__).parent.parent))  # Points to backend/
+sys.path.append(str(Path(__file__).parent.parent))
 
 from app.agents.data_curator import DataCuratorAgent
 from app.agents.policy_agent import PolicyComplianceAgent
 from app.agents.timetable_generator import TimetableGeneratorAgent
+from app.agents.negotiator import NegotiatorAgent
 from supabase import create_client
 from app.config import settings
 
@@ -24,7 +24,6 @@ sample_files = {
 
 def clear_tables():
     supabase = create_client(settings.SUPABASE_URL, settings.SUPABASE_KEY)
-    # Clear in order: timetables first (due to foreign keys), then others
     tables = ["timetables", "constraints", "students", "faculty", "courses", "rooms"]
     for table in tables:
         try:
@@ -60,6 +59,13 @@ def seed_data():
         logger.info(f"Timetable for FYUP: {timetable}")
     except Exception as e:
         logger.error(f"Timetable generation failed: {str(e)}")
+
+    negotiator = NegotiatorAgent()
+    try:
+        result = negotiator.resolve_conflicts("FYUP")
+        logger.info(f"Negotiated timetable for FYUP: {result}")
+    except Exception as e:
+        logger.error(f"Timetable negotiation failed: {str(e)}")
 
 if __name__ == "__main__":
     seed_data()

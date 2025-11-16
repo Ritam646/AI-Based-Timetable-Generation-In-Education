@@ -1,0 +1,19 @@
+# backend-rp/requirements.txt
+fastapi
+uvicorn
+pandas
+numpy
+PyPDF2
+python-docx
+langchain
+langchain-community
+langchain-huggingface
+langchain-groq
+docx2txt
+faiss-cpu  # or faiss-gpu if GPU available
+supabase
+sentence-transformers
+re
+os
+traceback
+pathlib

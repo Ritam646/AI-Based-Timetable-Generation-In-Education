@@ -1,0 +1,61 @@
+faculty_id,name,department,subjects,year_to_teach,max_load_hours,unavailable_slots,preferred_slots
+F0001,Aarav Sharma,CSE,Data Structure & Algorithms|Mathematics IA|Physics-I,1|2,16,Mon 10:00-12:00|Wed 14:00-16:00,Tue 09:00-11:00|Thu 11:00-13:00
+F0002,Isha Verma,CSE,Operating Systems|Database Management Systems|Software Engineering,2|3,18,Tue 13:00-15:00|Thu 09:00-10:00,Mon 09:00-11:00|Fri 10:00-12:00
+F0003,Rohan Mehta,CSE,Computer Networks|Compiler Design|Machine Learning,3|4,14,Wed 11:00-13:00|Fri 14:00-16:00,Tue 10:00-12:00|Thu 15:00-17:00
+F0004,Neha Gupta,CSE,Artificial Intelligence|Formal Language & Automata Theory|Big Data Analytics,2|3|4,20,Mon 09:00-10:00|Thu 13:00-15:00,Wed 10:00-12:00|Fri 09:00-11:00
+F0005,Aditya Singh,CSE,Cloud Computing|Theory of Computation|Mathematics IIA,1|2|3|4,16,Tue 11:00-13:00|Fri 09:00-10:00,Mon 14:00-16:00|Thu 10:00-12:00
+F0006,Simran Kaur,CSE,Algorithms|Computer Organisation|Computer Networks Lab,2|3,15,Wed 09:00-10:00|Thu 14:00-16:00,Tue 12:00-14:00|Fri 11:00-13:00
+F0007,Vikram Patel,CSE,Database Management System Lab|Software Engineering Lab|Introduction to Industrial Management,2|3,19,Mon 13:00-15:00|Wed 15:00-16:00,Tue 09:00-11:00|Thu 09:00-11:00
+F0008,Priyanka Rao,CSE,Machine Learning|Project-II|Cryptography and Network Security,3|4,17,Tue 15:00-17:00|Fri 11:00-12:00,Mon 10:00-12:00|Wed 13:00-15:00
+F0009,Sai Iyer,CSE,Web Technologies|E-Commerce & ERP|Physics-I Laboratory,1|4,18,Mon 11:00-12:00|Thu 10:00-11:00,Tue 14:00-16:00|Fri 09:00-11:00
+F0010,Karan Malhotra,CSE,Computer Architecture|Basic Electrical Engineering|Basic Electrical Engineering Lab,1|2,16,Wed 14:00-16:00|Fri 09:00-10:00,Mon 09:00-11:00|Thu 13:00-15:00
+F0011,Ananya Joshi,CSE,Programming for Problem Solving|Programming for Problem Solving Lab|Chemistry-I,1,14,Tue 09:00-10:00|Thu 15:00-17:00,Mon 11:00-13:00|Wed 10:00-12:00
+F0012,Manav Kapoor,CSE,Project-III|Constitution of India|Operation Research,3|4,20,Mon 15:00-17:00|Wed 09:00-10:00,Tue 11:00-13:00|Fri 13:00-15:00
+F0013,Tanya Bansal,CSE,Distributed Systems|Image Processing|Pattern Recognition,3,17,Tue 10:00-12:00|Fri 14:00-15:00,Mon 13:00-15:00|Thu 11:00-13:00
+F0014,Nikhil Arora,CSE,Adhoc – Sensor Network|Soft Computing|Mathematics-III,2|4,18,Mon 09:00-10:00|Wed 13:00-14:00,Tue 15:00-17:00|Thu 10:00-12:00
+F0015,Shreya Nair,CSE,Analog and Digital Electronics|Data Structure & Algorithm Lab|Computer Organization Lab,2,16,Thu 09:00-10:00|Fri 13:00-15:00,Mon 10:00-12:00|Wed 11:00-13:00
+F0016,Arjun Desai,CSE,Design and Analysis of Algorithms|Design & Analysis Algorithm Lab|Workshop,1|2,19,Mon 14:00-16:00|Tue 09:00-10:00,Wed 10:00-12:00|Thu 14:00-16:00
+F0017,Meera Kulkarni,CSE,Internet of Things|Mobile Computing|Chemistry-I Laboratory,1|4,15,Wed 09:00-11:00|Fri 10:00-11:00,Mon 12:00-14:00|Thu 13:00-15:00
+F0018,Dev Khanna,CSE,Project Management and Entrepreneurship|IT Workshop|English,1|2,20,Mon 11:00-12:00|Thu 11:00-12:00,Tue 13:00-15:00|Fri 09:00-11:00
+F0019,Anushka Sethi,CSE,Biology|Computer Architecture Lab|Language Laboratory,1|2,14,Tue 14:00-15:00|Wed 15:00-16:00,Mon 09:00-11:00|Thu 10:00-12:00
+F0020,Harshit Goyal,CSE,Discrete Mathematics|Environmental Sciences|Multimedia Technology,2|4,18,Mon 10:00-11:00|Fri 11:00-13:00,Tue 09:00-11:00|Thu 15:00-17:00
+F0021,Ritika Jain,IT,Artificial Intelligence|Data Base Management System|Computer Graphics,3,16,Mon 09:00-11:00|Thu 14:00-15:00,Tue 11:00-13:00|Fri 10:00-12:00
+F0022,Akash Dubey,IT,Computer Networks|Numerical Methods|Internet Technology,3|4,18,Tue 10:00-12:00|Fri 09:00-10:00,Mon 13:00-15:00|Thu 11:00-13:00
+F0023,Swati Chawla,IT,Software Engineering|Object Oriented Programming|Data Structure & Algorithm,2|3,17,Wed 11:00-12:00|Thu 09:00-10:00,Tue 14:00-16:00|Fri 13:00-15:00
+F0024,Prateek Jain,IT,Cryptography & Network Security|E-Commerce & ERP|Microelectronics & VLSI Design,4,20,Mon 15:00-17:00|Wed 10:00-11:00,Tue 09:00-11:00|Thu 13:00-15:00
+F0025,Anika Reddy,IT,Cloud Computing|Cyber Security|Soft Skills & Interpersonal Communication,4,14,Tue 13:00-15:00|Fri 10:00-11:00,Mon 10:00-12:00|Thu 11:00-13:00
+F0026,Soham Sen,IT,Project-II|Computer Architecture|Formal Language & Automata Theory,2|4,19,Mon 11:00-12:00|Wed 14:00-16:00,Tue 12:00-14:00|Thu 09:00-11:00
+F0027,Divya Menon,IT,Image Processing|Pattern Recognition|Mathematics IA,1|3,16,Tue 09:00-10:00|Thu 15:00-17:00,Mon 13:00-15:00|Fri 11:00-13:00
+F0028,Kunal Batra,IT,Advanced Algorithm|Parallel and Distributed Algorithms|Physics-I,1|3,18,Mon 14:00-15:00|Wed 09:00-10:00,Tue 10:00-12:00|Thu 14:00-16:00
+F0029,Sneha Pillai,IT,Data Base Management System Lab|Computer Networking Lab|Physics-I Laboratory,3,15,Thu 11:00-12:00|Fri 14:00-16:00,Mon 09:00-11:00|Wed 10:00-12:00
+F0030,Varun Saxena,IT,Programming for Problem Solving|Programming for Problem Solving Lab|Chemistry-I,1,20,Mon 09:00-10:00|Tue 15:00-17:00,Wed 11:00-13:00|Thu 10:00-12:00
+F0031,Anvi Bhatt,IT,Analog & Digital Electronics|Analog and Digital Electronics Lab|Mathematics IIA,1|2,17,Tue 11:00-12:00|Fri 09:00-10:00,Mon 10:00-12:00|Thu 13:00-15:00
+F0032,Aman Chawla,IT,Computer Organization|Computer Organization Lab|English,1|2,16,Mon 13:00-14:00|Wed 15:00-16:00,Tue 09:00-11:00|Fri 10:00-12:00
+F0033,Krishna Rao,IT,Data Structure & Algorithm Lab|IT Workshop|Basic Electrical Engineering,1|2,18,Tue 12:00-14:00|Thu 09:00-10:00,Mon 14:00-16:00|Wed 10:00-12:00
+F0034,Mahek Shah,IT,Environmental Sciences|Constitution of India|Chemistry-I Lab,1|3,16,Wed 10:00-12:00|Fri 11:00-12:00,Tue 14:00-16:00|Thu 11:00-13:00
+F0035,Ritvik Yadav,IT,Software Engineering Lab|Object Oriented Programming Lab|Basic Electrical Engineering Lab,1|3,19,Mon 10:00-11:00|Thu 13:00-15:00,Tue 09:00-11:00|Fri 13:00-15:00
+F0036,Diya Kapoor,IT,Research Methodology|Workshop|Language Laboratory,1|3,14,Tue 15:00-17:00|Wed 09:00-10:00,Mon 11:00-13:00|Thu 10:00-12:00
+F0037,Harshita Jain,IT,Design & Analysis of Algorithm|Computer Architecture Lab|Mathematics-III,2,18,Mon 09:00-10:00|Fri 10:00-11:00,Tue 12:00-14:00|Thu 14:00-16:00
+F0038,Naveen Nair,IT,Economics for Engineers|Operating System Lab|Engineering Graphics & Design,1|2|3,20,Wed 11:00-13:00|Thu 15:00-16:00,Mon 10:00-12:00|Tue 09:00-11:00
+F0039,Pooja Sinha,IT,Compiler Design|Discrete Mathematics,2|3,17,Mon 14:00-16:00|Wed 09:00-10:00,Tue 10:00-12:00|Thu 13:00-15:00
+F0040,Samar Goel,IT,Basic Electrical Engineering Lab|Chemistry-I Lab,1,16,Tue 11:00-13:00|Fri 09:00-10:00,Mon 09:00-11:00|Thu 10:00-12:00
+F0041,Anil Krishnan,ECE,Electronic Devices|Digital System Design|Signals and Systems,2,16,Mon 10:00-11:00|Wed 14:00-16:00,Tue 09:00-11:00|Thu 11:00-13:00
+F0042,Keerthi Mohan,ECE,Electromagnetic Waves|Analog Communication|Network Theory,2|3,18,Tue 13:00-15:00|Thu 09:00-10:00,Mon 09:00-11:00|Fri 10:00-12:00
+F0043,Suraj Kulkarni,ECE,Microprocessor & Microcontrollers|Digital Signal Processing|Power Electronics,2|3,14,Wed 11:00-13:00|Fri 14:00-16:00,Tue 10:00-12:00|Thu 15:00-17:00
+F0044,Shruti Rao,ECE,Embedded System|Antennas and Propagation|Internet of Things,4,20,Mon 09:00-10:00|Thu 13:00-15:00,Wed 10:00-12:00|Fri 09:00-11:00
+F0045,Abhinav Patil,ECE,Electronic Devices Lab|Digital System Design Lab|Data Structure Lab,2,16,Tue 11:00-13:00|Fri 09:00-10:00,Mon 14:00-16:00|Thu 10:00-12:00
+F0046,Vaishnavi Iyer,ECE,Analog Electronic Circuits|Analog Communication Lab|Electromagnetic Wave Lab,2|3,15,Wed 09:00-10:00|Thu 14:00-16:00,Tue 12:00-14:00|Fri 11:00-13:00
+F0047,Parth Goswami,ECE,Control System & Instrumentation|Microprocessor & Microcontrollers Lab|Computer Network,3,19,Mon 13:00-15:00|Wed 15:00-16:00,Tue 09:00-11:00|Thu 09:00-11:00
+F0048,Ankita Deshmukh,ECE,Digital Signal Processing Lab|Nano Electronics|Speech and Audio Processing,3,17,Tue 15:00-17:00|Fri 11:00-12:00,Mon 10:00-12:00|Wed 13:00-15:00
+F0049,Sharad Mishra,ECE,Fibre Optic Communication|Microwave Theory and Techniques|Project Stage I,4,18,Mon 11:00-12:00|Thu 10:00-11:00,Tue 14:00-16:00|Fri 09:00-11:00
+F0050,Komal Aggarwal,ECE,Environmental Science|Probability & Statistics|Data Structure & Algorithm,2,16,Wed 14:00-16:00|Fri 09:00-10:00,Mon 09:00-11:00|Thu 13:00-15:00
+F0051,Sanjay Raval,ECE,Analog Electronic Circuits Lab|Numerical Methods|Numerical Methods Lab,2,14,Tue 09:00-10:00|Thu 15:00-17:00,Mon 11:00-13:00|Wed 10:00-12:00
+F0052,Monica Dutta,ECE,Project Stage II|Grand Viva|Bio-Medical Electronics,4,20,Mon 15:00-17:00|Wed 09:00-10:00,Tue 11:00-13:00|Fri 13:00-15:00
+F0053,Rajeev Nanda,ECE,CMOS VLSI Design|Information Theory & Coding|Digital Communication & Stochastic Process,3,17,Tue 10:00-12:00|Fri 14:00-15:00,Mon 13:00-15:00|Thu 11:00-13:00
+F0054,Parul Soni,ECE,Satellite Communication|Mobile Communication and Networks|Wireless Sensor Networks,4,18,Mon 09:00-10:00|Wed 13:00-14:00,Tue 15:00-17:00|Thu 10:00-12:00
+F0055,Deepak Rana,ECE,Control System and Instrumentation Lab|Mini Project/ Electronic Design Workshop|Economics for Engineers,3,16,Thu 09:00-10:00|Fri 13:00-15:00,Mon 10:00-12:00|Wed 11:00-13:00
+F0056,Nandini Iyer,ECE,Adaptive Signal Processing|Digital Image and Video Processing|Neural Network and Fuzzy Logic Control,4,19,Mon 14:00-16:00|Tue 09:00-10:00,Wed 10:00-12:00|Thu 14:00-16:00
+F0057,Kartik Vora,ECE,Computer Network Lab|Scientific Computing|Soft Skill and Interpersonal Communication,3,15,Wed 09:00-11:00|Fri 10:00-11:00,Mon 12:00-14:00|Thu 13:00-15:00
+F0058,Anu Mathew,ECE,Web Technology|Optimisation Technique|Entrepreneurship,4,20,Mon 11:00-12:00|Thu 11:00-12:00,Tue 13:00-15:00|Fri 09:00-11:00
+F0059,Rehan Ali,ECE,Cyber Law & Intellectual Property Rights|Human Resource Management|Universal Human Values,3,14,Tue 14:00-15:00|Wed 15:00-16:00,Mon 09:00-11:00|Thu 10:00-12:00
+F0060,Shilpa Menon,ECE,Introduction to MEMS|Electronic Measurements and Measuring Instruments|Operating System,3,18,Mon 10:00-11:00|Fri 11:00-13:00,Tue 09:00-11:00|Thu 15:00-17:00
