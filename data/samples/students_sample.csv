@@ -1,3 +1,16 @@
 roll_no,program,electives,credit_limit
-S001,FYUP,"['CSE101','MAT202']",24
-S002,B.Ed,"['EDU101']",20
+S001,FYUP,"History Geography English Mathematics",24
+S002,FYUP,"Biology Chemistry Physics Mathematics",24
+S003,FYUP,"English History Political Science Economics",22
+S004,FYUP,"Physics Mathematics Chemistry English",24
+S005,FYUP,"Biology Environment Chemistry English",23
+S006,FYUP,"Mathematics Physics Computer English",24
+S007,FYUP,"History Geography Sanskrit English",20
+S008,FYUP,"Political Science Economics History English",22
+S009,FYUP,"Biology Chemistry Life Science English",24
+S010,FYUP,"Mathematics Physics Computer Sanskrit",23
+S011,FYUP,"English Literature History Education",21
+S012,FYUP,"Geography Evs History English",22
+S013,FYUP,"Chemistry Biology Nutrition English",23
+S014,FYUP,"Physics Mathematics PSc English",24
+S015,FYUP,"Computer Mathematics English Economics",22

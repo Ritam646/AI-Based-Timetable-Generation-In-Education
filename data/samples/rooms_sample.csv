@@ -1,3 +1,12 @@
 name,capacity,is_lab
-Room101,50,false
-LabA,20,true
+Room101,60,false
+Room102,60,false
+Room103,60,false
+Room201,50,false
+Room202,50,false
+Room203,50,false
+LabA,30,true
+LabB,30,true
+LabC,30,true
+LabD,30,true
+Auditorium,200,false

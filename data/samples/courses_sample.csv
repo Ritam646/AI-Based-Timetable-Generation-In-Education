@@ -1,4 +1,20 @@
-code,credit_hours,is_elective,is_practical
-CSE101,4,true,false
-MAT202,3,true,false
-EDU101,4,false,true
+code,credit_hours,is_elective,is_practical,full_name
+History,4,false,false,History
+Geography,4,false,false,Geography
+Biology,4,true,true,Biology
+Chemistry,4,true,true,Chemistry
+English,4,false,false,English
+Mathematics,4,false,false,Mathematics
+Physics,4,true,true,Physics
+Environment,3,true,false,Environmental Science
+Political Science,3,true,false,Political Science
+Economics,3,true,false,Economics
+Literature,3,false,false,Literature
+Sanskrit,3,false,false,Sanskrit
+Computer,4,false,false,Computer Science
+Evs,3,true,false,Environmental Studies
+Nutrition,3,true,false,Nutrition
+Life Science,4,true,true,Life Science
+PSc,3,false,false,Physical Science
+Social Studies,3,false,false,Social Studies
+Education,4,false,false,Education
