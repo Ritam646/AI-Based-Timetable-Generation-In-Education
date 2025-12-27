@@ -3,3 +3,4 @@ venv/
 backend/.env
 *.env
 .ipynb_checkpoints/
+frontend/node_modules
